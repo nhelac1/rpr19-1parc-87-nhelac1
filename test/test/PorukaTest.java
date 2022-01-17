@@ -12,6 +12,7 @@ import java.time.LocalTime;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+
 class PorukaTest {
 
     private final Korisnik korisnik1 = new Korisnik("Miki", "Maus", "miki123");
